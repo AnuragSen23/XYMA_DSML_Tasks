@@ -1,6 +1,6 @@
 # XYMA_Analytics
 
-**Problem Statement for DS/ML Interns**
+**TASK 1 : Problem Statement for DS/ML Interns**
 **The objective of this exercise is to the predict price for an agricultural commodity. Predict min, max and modal price for the commodity for next 30 days from last date in the data.**
 
 data - https://drive.google.com/file/d/1udks0R6Qxa9LSdHwtroB4T1kd0sEn1K_/view?usp=sharing
