@@ -36,7 +36,7 @@ data - https://drive.google.com/file/d/1udks0R6Qxa9LSdHwtroB4T1kd0sEn1K_/view?us
 * 30 days forcasting predictions were made for 'modalPrice' , 'minPrice' and 'maxPrice' from the 3 Arima models which were fitted on 'modalPrice' , 'minPrice' and 'maxPrice' previously.
 * The 30Days forcasted predictions of 'modalPrice' , 'minPrice' and 'maxPrice' were concatenated into a single dataframe with their adjacent priceDates.
 
-**Possible Improvements-
+**Possible Improvements-**
 
 *  ARIMA can be limited in forecasting extreme values. While the model is adept at modelling seasonality and trends, outliers are difficult to forecast for ARIMA for the very reason that they lie outside of the general trend as captured by the model. Thus LSTM model can be used to overcome this limitation.
 *  If we don’t have time series data, the ARIMA package will not work.
