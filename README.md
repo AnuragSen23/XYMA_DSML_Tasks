@@ -5,7 +5,7 @@
 
 data - https://drive.google.com/file/d/1udks0R6Qxa9LSdHwtroB4T1kd0sEn1K_/view?usp=sharing
 
-**Algorithm and logic- 
+**Algorithm and logic-** 
 
 * minPrice, maxPrice, modalPrice of agricultural commodity sale is sorted and represented.
 * missing data values are interpolated and the datasets on minPrice, maxPrice, modalPrice are visually represented.
